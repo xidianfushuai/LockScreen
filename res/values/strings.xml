@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LockScreen</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="sample_device_admin_description">有了超级设备管理器  一键锁屏 清除数据</string>
+	<string name="sample_device_admin">chaojishebeiguanliqi</string>
+</resources>
